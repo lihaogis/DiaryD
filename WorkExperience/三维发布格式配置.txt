@@ -1,4 +1,5 @@
-IIS发布需添加MIME类型   .b3dm   application/octet-stream
+IIS路垄虏录脨猫脤铆录脫MIME脌脿脨脥   .b3dm   application/octet-stream
                         .json   application/json
+                        .terrain  application/octet-stream
 <mimeMap fileExtension=".gltf" mimeType="application/octet-stream" />
             <mimeMap fileExtension=".mp4" mimeType="application/octet-stream" />
